@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahlad721&" alt="prahlad721" /></p>
 
 
-![snake gif](https://github.com/Prahlad721/Prahlad721/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Prahlad721/Prahlad721/output/github-contribution-grid-snake.svg" />
