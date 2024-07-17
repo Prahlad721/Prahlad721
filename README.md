@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prahlad Prajapati</h1>
 <h3 align="center">A passionate pent tester from India</h3>
 
-<img align="right" alt="coding" width=""400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcybersecurity-safeguarding-critical-infrastructure-daulatzai--czqlf&psig=AOvVaw0kjy1IvT4UUm23-LvRq3Sn&ust=1721282617190000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjj0PezrYcDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcybersecurity-safeguarding-critical-infrastructure-daulatzai--czqlf&psig=AOvVaw0kjy1IvT4UUm23-LvRq3Sn&ust=1721282617190000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjj0PezrYcDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahlad721&label=Profile%20views&color=0e75b6&style=flat" alt="prahlad721" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -18,4 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prahlad721&show_icons=true&locale=en" alt="prahlad721" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahlad721&" alt="prahlad721" /></p>
-
